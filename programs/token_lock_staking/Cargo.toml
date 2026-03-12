@@ -1,0 +1,10 @@
+[package]
+name = "token_lock_staking"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anchor-lang = "0.32.1"
+anchor-spl = "0.32.1"
+
+constant_time_eq = "=0.3.1"

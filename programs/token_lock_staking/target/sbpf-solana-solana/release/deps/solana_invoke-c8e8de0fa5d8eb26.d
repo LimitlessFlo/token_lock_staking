@@ -1,0 +1,9 @@
+/Users/paveltkach/Projects/token_lock_staking/programs/token_lock_staking/target/sbpf-solana-solana/release/deps/solana_invoke-c8e8de0fa5d8eb26.d: /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/lib.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/../README.md
+
+/Users/paveltkach/Projects/token_lock_staking/programs/token_lock_staking/target/sbpf-solana-solana/release/deps/libsolana_invoke-c8e8de0fa5d8eb26.rlib: /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/lib.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/../README.md
+
+/Users/paveltkach/Projects/token_lock_staking/programs/token_lock_staking/target/sbpf-solana-solana/release/deps/libsolana_invoke-c8e8de0fa5d8eb26.rmeta: /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/lib.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/../README.md
+
+/Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/lib.rs:
+/Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs:
+/Users/paveltkach/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-invoke-0.4.0/src/../README.md:

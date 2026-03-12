@@ -1,0 +1,9 @@
+[provider]
+cluster = "localnet"
+wallet = "/Users/paveltkach/.config/solana/id.json"
+
+[programs.localnet]
+token_lock_staking = "FJ22iEN7eM9XqZRKLNR1xiraTm1pZNaN56RRvM9M73oy"
+
+[workspace]
+members = ["programs/*"]
